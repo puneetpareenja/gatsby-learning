@@ -1,5 +1,12 @@
 import React from "react"
 
-export default function Home() {
-  return <div>Puneet Pareenja</div>
+const IndexPage = () => {
+  return (
+    <div>
+      <h1>Hello</h1>
+      <h2>I am Puneet, a full stack developer</h2>
+    </div>
+  )
 }
+
+export default IndexPage
