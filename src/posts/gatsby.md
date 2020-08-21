@@ -5,6 +5,8 @@ date: "2020-08-19"
 
 Started working with learning Gatsby!
 
+![Tiger](./tiger.jpg)
+
 ## Topics Covered
 
 1. Gatsby
