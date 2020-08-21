@@ -9,8 +9,8 @@ const AboutPage = () => {
       <Head title="About" />
       <h1>About</h1>
       <p>
-        My name is Puneet. I am a full stack developer from Surrey Vancouver. I
-        am learning gatsby{" "}
+        My name is Puneet. I am a full stack developer from Surrey, British
+        Columbia. I am learning gatsby.
       </p>
       <p>
         {" "}
